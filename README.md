@@ -13,7 +13,6 @@ Investigar e apresentar:
 
 analise_subsidios_tarifarios/
 │
-
 ├── dados/
 
 │ └── subsidios-tarifarios.csv
